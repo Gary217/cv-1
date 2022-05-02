@@ -60,3 +60,10 @@ return `${word[0].toUpperCase()}${word.slice(1)}`
 
 
 A landing page for a photographer's. Made with JS and CSS Flexbox layout, responsive.
+
+
+>## LANGUAGES
+
+
+* English (А1)
+* Russian (Native)
