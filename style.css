@@ -513,7 +513,7 @@ blockquote {
     }
 
     .section-left-1 {
-        padding-bottom: 83%;
+        padding-bottom: 66%;
     }
 
     .section-left-2 {
@@ -618,7 +618,7 @@ blockquote {
     }
 
     .section-left-1 {
-        padding-bottom: 72.5%;
+        padding-bottom: 75%;
     }
 
     .section-left-2 {
@@ -861,6 +861,55 @@ blockquote {
 
     ul.p-right {
         padding-left: 10%;
+    }
+}
+
+
+
+@media (max-width: 360px) {
+
+    h1 {
+        font-size: 110.1%;
+        padding-left: 1.5%;
+    }
+
+    h2 {
+        font-size: 68%;
+        padding-left: 1.5%;
+    }
+
+    .left {
+        width: 45.97%;
+    }
+
+    .right {
+        margin-top: 40px;
+    }
+
+    .code {
+        font-size: 38%;
+    }
+
+    code {
+        margin-left: -29px;
+    }
+
+    .portfolio-bg {
+        width: 165.24px;
+        height: 89px;
+    }
+
+    .portfolio-about {
+        font-size: 56%;
+        height: 45px;
+    }
+
+    .section-left-2 {
+        margin-left: -9%;
+    }
+
+    .container-main {
+        height: 899px;
     }
 }
 
